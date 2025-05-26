@@ -1,7 +1,6 @@
 # nmap
 using nmap tool 
 
-<!DOCTYPE html>
 <html>
 <head>
 <title>Open ports using nmap</title>
