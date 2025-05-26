@@ -3,7 +3,8 @@
 <title>Open ports using nmap</title>
 </head>
 <body>
-<h3 finding open ports using nmap</h3><br>
+<h3> finding open ports using nmap </h3>h3><br>
+  <h3>
 Starting Nmap 7.97 ( https://nmap.org ) at 2025-05-26 18:26 +0530<br>
 Nmap scan report for cloudhost-357489.us-midwest-1.nxcli.net (209.87.159.181)<br>
 Host is up (0.20s latency).<br>
