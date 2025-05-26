@@ -3,9 +3,9 @@
 <title>Open ports using nmap</title>
 </head>
 <body>
-<h3> finding open ports using nmap </h3><br>
-  <h3>
-Starting Nmap 7.97 ( https://nmap.org ) at 2025-05-26 18:26 +0530<br>
+<h3 >finding open ports using nmap</h3><br>
+  
+<h5>Starting Nmap 7.97 ( https://nmap.org ) at 2025-05-26 18:26 +0530<br>
 Nmap scan report for cloudhost-357489.us-midwest-1.nxcli.net (209.87.159.181)<br>
 Host is up (0.20s latency).<br>
 Not shown: 975 filtered tcp ports (no-response), 7 filtered tcp ports (port-unreach)<br>
@@ -30,7 +30,7 @@ PORT      STATE  SERVICE<br>
 50800/tcp closed unknown<br>
 <br>
 Nmap done: 1 IP address (1 host up) scanned in 23.00 seconds<br>
-  </h3>
+  </h5>
 <img src="nmap1.png">
 <img src="nmap2.png">
   
